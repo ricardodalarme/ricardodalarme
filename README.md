@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-dalarme-320111194/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ricardo-dalarme/ "Connect on LinkedIn")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](http://instagram.com/ricardodalarme "Contact on Instagram")
 
 [course]: https://www.udemy.com/course/curso-completo-flutter-app-android-ios/
