@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a [Android App][androidapp]!
 - 🌱 I’m currently learning [Flutter][course] and French
 - 👯 I'm looking to become a better person and learn new things
-- 🥅 2020 Goals: Learn deeply about mobile and web development
+- 🥅 2021 Goals: Learn deeply about mobile and web development
 - ⚡ Fun fact: I make combat robots
 
 ## Some of my Github Public Stats
