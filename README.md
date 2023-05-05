@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo Dalarme 👋
 
-I'm a Software Developer at [ProFusion][profusion] and one of the people behind making the [ChiselStrike][chiselstrike] platform the best one to build your backend.
+I'm a Software Developer at [ProFusion][profusion].
 
 - ‍💻 I've been working for more than 2 years in software development
 - 👯 I've experience with React, Flutter, Android, Node, TypeScript, GraphQL and more!
