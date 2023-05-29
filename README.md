@@ -3,7 +3,7 @@
 I'm a Software Developer at [ProFusion][profusion].
 
 - ‍💻 I've been working for more than 2 years in software development
-- 👯 I've experience with React, Flutter, Android, Node, TypeScript, GraphQL and more!
+- 👯 I've experience with React, Flutter, Android, iOS, Node, TypeScript, GraphQL and more!
 - 🎮 I've an _Never Have I Ever_ game published on the [PlayStore][eununca-playstore]
 - 🤖 I make [combat robots][uairrior]
 - ⚡ Fun fact: When I was a child I created a [game engine][crybits]
@@ -12,6 +12,7 @@ I'm a Software Developer at [ProFusion][profusion].
 
 - [bootstrap_icons](https://pub.dev/packages/bootstrap_icons)
 - [flutter_card_swiper](https://pub.dev/packages/flutter_card_swiper)
+- [formz_inputs](https://pub.dev/packages/formz_inputs)
 
 ## Some of my Github Public Stats
 
