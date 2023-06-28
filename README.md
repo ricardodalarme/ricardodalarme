@@ -12,7 +12,6 @@ I'm a Software Developer at [ProFusion][profusion].
 
 - [bootstrap_icons](https://pub.dev/packages/bootstrap_icons)
 - [flutter_card_swiper](https://pub.dev/packages/flutter_card_swiper)
-- [formz_inputs](https://pub.dev/packages/formz_inputs)
 
 ### Connect with me:
 
