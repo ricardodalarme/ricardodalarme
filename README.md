@@ -2,7 +2,7 @@
 
 I'm a Software Developer at [ProFusion][profusion].
 
-- ‍💻 I've been working for more than 2 years in software development
+- ‍💻 I've been working for more than 3 years in software development
 - 👯 I've experience with React, Flutter, Android, iOS, Node, TypeScript, GraphQL and more!
 - 🎮 I've an _Never Have I Ever_ game published on the [PlayStore][eununca-playstore]
 - 🤖 I make [combat robots][uairrior]
